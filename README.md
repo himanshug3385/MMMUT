@@ -1,5 +1,8 @@
 # MMMUT
 Android app for my college anyone if interested can contribute in it.<br>
+YOU can view demo of my app by following this link<br>
+https://drive.google.com/file/d/1LhQZYJ2SbijG6ToFeNjUWov-aF3ehRcX/view?usp=sharing
+<br><br>
 Description-<br>
 1.the first page the app open is splash screen in which there is a banner of college and a animation.<br><br>
 ![SPLASHSCREEN](https://user-images.githubusercontent.com/85097442/142750343-e551850b-45f3-41bc-a570-c5a4d575425a.jpg)
