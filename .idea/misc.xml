@@ -3,20 +3,58 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/bottom_background_ligth_green.xml" value="0.1712962962962963" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.20052083333333334" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/button_background.xml" value="0.20052083333333334" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/buttonstyle.xml" value="0.19444444444444445" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/circlebackground.xml" value="0.19444444444444445" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/corner_radius.xml" value="0.17222222222222222" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/green_banner_background.xml" value="0.19743589743589743" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/ic_baseline_expand.xml" value="0.18489583333333334" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/ic_baseline_expandless.xml" value="0.18489583333333334" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/linearcornerlayout.xml" value="0.18489583333333334" />
+        <entry key="..\:/MMMUT/app/src/main/res/drawable/white_btn_background.xml" value="0.19743589743589743" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_acadmics.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_alumini.xml" value="0.13632246376811594" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_appsetting.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_campus_facutly.xml" value="0.16875" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_carrer.xml" value="0.16875" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_dash_board.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_examination_result.xml" value="0.1703125" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_header.xml" value="0.16875" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_login.xml" value="0.184375" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_myprofile.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_naac.xml" value="0.16666666666666666" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_notification.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_profile_pic.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_rating_bar.xml" value="0.16032608695652173" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_research_adevelopment.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_tand_p.xml" value="0.16875" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_the_university.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_time_table.xml" value="0.1703125" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/activity_upload_docss.xml" value="0.16875" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/aluminilayout.xml" value="0.3333333333333333" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/app_bar.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/card_item.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/circle.xml" value="0.16875" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/fragment_t_ime_table.xml" value="0.184375" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/header_layout.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/header_navigation.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/layout_bottom_sheey.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/notification_item.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/popwindow.xml" value="0.22" />
+        <entry key="..\:/MMMUT/app/src/main/res/layout/rating_view.xml" value="0.184375" />
         <entry key="..\:/MMMUT/app/src/main/res/layout/tool_bar.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/menu/activity_main_drawer.xml" value="0.184375" />
         <entry key="..\:/MMMUT/app/src/main/res/menu/navigation_menu.xml" value="0.184375" />
+        <entry key="..\:/MMMUT/app/src/main/res/menu/navigation_profile.xml" value="0.184375" />
         <entry key="..\:/MMMUT/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16666666666666666" />
         <entry key="..\:/MMMUT/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20052083333333334" />
         <entry key="..\:/MMMUT/app/src/main/res/mipmap-anydpi-v26/ic_mmmut.xml" value="0.20052083333333334" />
         <entry key="..\:/MMMUT/app/src/main/res/xml/cornerbg.xml" value="0.16875" />
+        <entry key="..\:/MMMUT/app/src/main/res/xml/file_paths.xml" value="0.16875" />
       </map>
     </option>
   </component>

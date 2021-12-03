@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="?attr/actionBarSize"
     android:id="@+id/app_bar"
-    android:background="#4CAF50">
+    android:background="@drawable/imgprobg">
 
 
 </androidx.appcompat.widget.Toolbar>

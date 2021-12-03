@@ -2,15 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_account"
-        android:title="My Profile" />
+        android:title="My Account" />
 
-    <item
-        android:id="@+id/nav_acadmics"
-        android:title="Acadmics" />
     <item
         android:id="@+id/nav_settings"
         android:title="Settings" />
-
 
     <item
         android:id="@+id/nav_logout"
