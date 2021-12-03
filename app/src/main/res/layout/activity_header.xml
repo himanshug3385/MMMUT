@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFEB3B"
+    tools:context=".HeaderActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/imgprobg">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:layout_marginLeft="173dp"
+            android:gravity="center"
+            android:id="@+id/himanshu"
+            android:textStyle="bold"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:text="HIMANSHU GUPTA" />
+
+        <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/profile_image"
+            android:layout_width="136dp"
+            android:layout_height="136dp"
+            android:layout_marginLeft="23dp"
+            android:layout_marginTop="40dp"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="2dp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="200dp"
+            android:onClick="zoomtoggle"
+            android:src="@drawable/ic_zoom" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="180dp"
+            android:onClick="zoomtoggle"
+            android:id="@+id/uploadImg"
+            android:src="@drawable/ic_baseline_upgrade" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="233dp"
+            android:layout_marginTop="90dp"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="@color/material_on_surface_emphasis_medium"
+            android:text="MALAVIYAN" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="183dp"
+            android:layout_marginTop="120dp"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="@color/material_on_surface_emphasis_medium"
+            android:text="ID_NO" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="243dp"
+            android:layout_marginTop="120dp"
+            android:cursorVisible="true"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="@color/material_on_surface_emphasis_medium"
+            android:text="2020021064" />
+        <View
+            android:layout_width="100dp"
+            android:layout_marginLeft="233dp"
+            android:layout_height="2dp"
+            android:layout_marginTop="140dp"
+            android:background="#E91E63"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="153dp"
+            android:layout_marginTop="150dp"
+            android:text="Hosteller-"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="@color/material_on_surface_emphasis_medium" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="223dp"
+            android:layout_marginTop="150dp"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="#F44336"
+            android:text="RAMANUJANAM" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="220dp"
+            android:src="@drawable/ic_baseline_mail"
+            android:onClick="sendemail"
+            android:layout_marginLeft="100dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="133dp"
+            android:layout_marginTop="220dp"
+            android:textAppearance="?attr/textAppearanceBody2"
+            android:textColor="#03A9F4"
+            android:onClick="sendemail"
+            android:text="himanshugupta3385@gmail.com" />
+
+    </RelativeLayout>
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/navigationView"
+        android:layout_gravity="start"
+        app:menu="@menu/navigation_profile"/>
+
+
+</LinearLayout>

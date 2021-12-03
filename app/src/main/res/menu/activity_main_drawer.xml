@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_account"
+            android:title="Contacts"
+            android:icon="@drawable/ic_baseline_phone_in_talk_24"/>
+        <item
+            android:id="@+id/nav_invite"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Invite Friends" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_baseline_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_baseline_label_important"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_wifi"
+            android:title="Logout" />
+        <item
+            android:id="@+id/nav_love"
+            android:icon="@drawable/ic_baseline_favorite"
+            android:title="Love MMMUT?" />
+    </group>
+    <group
+        android:id="@+id/group12"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subtitlee"
+            >
+            <menu>
+
+                <item
+                    android:id="@+id/item4443"
+                    android:title="Privacy Policy" />
+
+                <item
+                    android:id="@+id/item555"
+                    android:title="Terms of Services" />
+
+
+            </menu>
+        </item>
+    </group>
+</menu>

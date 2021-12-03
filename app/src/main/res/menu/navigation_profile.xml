@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item9879"
+            android:icon="@drawable/ic_baseline_rate"
+            android:title="Rate the app"
+            android:checked="true" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/timetable"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/resultimg"
+            android:title="Result" />
+        <item
+            android:id="@+id/item33"
+            android:icon="@drawable/societyimg"
+            android:title="Societies Joined" />
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subtitle"
+            android:title="Docs">
+            <menu>
+                <item
+                    android:id="@+id/item4"
+                    android:icon="@drawable/uploaddocsimg"
+                    android:title="UpLoad Document" />
+
+                <item
+                    android:id="@+id/item5"
+                    android:icon="@drawable/idcardimg"
+                    android:title="ID Card" />
+ <item
+                    android:id="@+id/item55"
+                    android:icon="@drawable/enrollmentformimh"
+                    android:title="Enrollment Form" />
+
+ <item
+                    android:id="@+id/item558"
+                    android:icon="@drawable/feestrimg"
+                    android:title="Pay Fee" />
+                <item
+                    android:id="@+id/item1"
+                    android:icon="@drawable/acadmicnav"
+                    android:title="Acadmics" />
+
+
+            </menu>
+        </item>
+    </group>
+
+</menu>

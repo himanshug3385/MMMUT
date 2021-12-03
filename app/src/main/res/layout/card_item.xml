@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:cardElevation="10dp"
+        android:background="#2196F3"
+        app:cardCornerRadius="20dp"
+        android:layout_margin="5dp"
+        app:cardBackgroundColor="#FFFFFF"
+        app:cardMaxElevation="12dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        >
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="200dp"
+            android:src="@drawable/imgc1"
+            android:layout_marginLeft="-32dp"
+            android:layout_marginTop="-30dp"
+            android:id="@+id/imgcard"
+            android:contentDescription="@string/app_name" />
+
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notice"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:textAlignment="center"
+        android:fontFamily="@font/font5"
+        android:textSize="20sp"
+        android:id="@+id/albumtitle"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/albumdesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="280dp"
+        android:layout_marginTop="200dp"
+        android:text="Description"
+        android:textColor="#F81403"
+        android:fontFamily="@font/font4"
+        android:textSize="18sp"
+        android:textStyle="bold"
+
+        />
+</RelativeLayout>

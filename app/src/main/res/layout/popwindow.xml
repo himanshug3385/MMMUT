@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OFFICIAL IDENTIFICATION CARD"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/font2"
+        android:layout_marginLeft="60dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Front View"
+        android:layout_marginTop="80dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/font2"
+        android:layout_marginLeft="50dp"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="0dp"
+        android:src="@drawable/id_cardp1"/>
+
+ <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back View"
+        android:layout_marginTop="340dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/font2"
+        android:layout_marginLeft="50dp"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginLeft="0dp"
+        android:src="@drawable/id_cardp2"/>
+
+
+
+</RelativeLayout>
