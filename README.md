@@ -24,3 +24,4 @@ Description-<br>
 <br><br><br>
 
 
+Hello Reader! the app is updated you can download and enjoy it and explore all its new features and review it here🙏🙏
